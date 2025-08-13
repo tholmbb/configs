@@ -58,11 +58,11 @@
             "key": "│ ├",
             "keyColor": "yellow"
         },
-        {
+        /*{
             "type": "bios",
             "key": "│ ├",
             "keyColor": "yellow"
-        },
+        },*/
         {
             "type": "packages",
             "key": "│ ├󰏖",
