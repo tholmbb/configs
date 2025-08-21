@@ -58,11 +58,6 @@
             "key": "│ ├",
             "keyColor": "yellow"
         },
-        /*{
-            "type": "bios",
-            "key": "│ ├",
-            "keyColor": "yellow"
-        },*/
         {
             "type": "packages",
             "key": "│ ├󰏖",
@@ -87,11 +82,6 @@
         {
             "type": "wm",
             "key": "│ ├",
-            "keyColor": "blue"
-        },
-        {
-            "type": "wmtheme",
-            "key": "│ ├󰉼",
             "keyColor": "blue"
         },
         {
